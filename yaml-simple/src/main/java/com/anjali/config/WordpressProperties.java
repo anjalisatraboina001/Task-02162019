@@ -1,8 +1,8 @@
-package com.mkyong.config;
+package com.anjali.config;
 
-import com.mkyong.config.model.Menu;
-import com.mkyong.config.model.Server;
-import com.mkyong.config.model.Theme;
+import com.anjali.config.model.Menu;
+import com.anjali.config.model.Server;
+import com.anjali.config.model.Theme;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
