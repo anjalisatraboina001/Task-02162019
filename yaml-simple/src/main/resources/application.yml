@@ -21,7 +21,7 @@ wordpress:
       name: About
       path: /about
   themes:
-    default-folder: /wp-content/themes/mkyong
+    default-folder: /wp-content/themes/anjali
   servers:
     - ip: 127.0.0.1
       path: /dev1
